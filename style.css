@@ -183,7 +183,7 @@ progress::-webkit-progress-bar {
     float: none;
     margin: 0px auto;
     margin: 20px;
-    width: 80%;
+    width: 100%;
     height: 780px;
     border-radius: 20px;
   }
